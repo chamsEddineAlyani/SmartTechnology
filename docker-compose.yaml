@@ -1,0 +1,6 @@
+version: "3"
+services: 
+  nodeAppTest:
+    image: chams123/chamssmarttechnology:latest
+    ports:
+    - 3000:3000 
